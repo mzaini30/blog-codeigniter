@@ -1,0 +1,37 @@
+* {
+	direction: all;
+	word-wrap: break-word;
+}
+
+body {
+	padding-top: 70px;
+}
+
+.postingan,
+.postingan:active,
+.postingan:hover,
+.postingan:visited,
+.postingan:focus {
+	color: inherit;
+	text-decoration: none;
+}
+
+.markdown-input {
+	display: none;
+}
+
+.panel-detail {
+	padding-bottom: 5px;
+}
+
+.hilang {
+	display: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+.full {
+	width: 100%;
+}
